@@ -1,6 +1,6 @@
 # Trie_Implementation
 
-1>First Trie.py file will be compiled (inside path is specified of the CSV file which can be changed) using C++ Compiler like 
+1>First Try1.cpp file will be compiled (inside path is specified of the CSV file which can be changed) using C++ Compiler like 
 
 2>g++ -o Try Try1.cpp
 
